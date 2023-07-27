@@ -1,4 +1,4 @@
-# MongoDb kubernetes configMap components
+# MongoDb kubernetes configMap and secret components
 ##learn how to configure mongo db with secret in configMap k8s component
 start by creating secret file file first:
 echo -n 'username' | base64
